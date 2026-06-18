@@ -19,7 +19,6 @@
 kuleen = {
   education:   "B.Tech CSE @ IIIT Delhi (2023–2027)",
   currently:   "AI Research Intern @ MIDAS Labs — activation-memory efficiency in Transformer pretraining, H100/B200",
-  building:    "AdForge — a 6-agent LangGraph pipeline for automated content generation",
   exploring:   ["applied cryptography", "ML systems research", "intrusion detection"],
   lookingFor:  "AI/ML engineering, backend, or agentic systems internships",
   reachMe:     "jayakuleen@gmail.com"
@@ -95,19 +94,6 @@ kuleen = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cryptography](https://img.shields.io/badge/Cryptography-444444?style=flat-square)
 ![Network Security](https://img.shields.io/badge/Network%20Security-444444?style=flat-square)
-
----
-
-## 📊 GitHub Stats
-
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=kuleen7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=kuleen7&theme=tokyonight&hide_border=true" /></td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuleen7&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
