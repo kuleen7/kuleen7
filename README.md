@@ -4,7 +4,7 @@
 
 ### CS Undergrad @ IIIT Delhi &nbsp;·&nbsp; ML Systems Research &nbsp;·&nbsp; Full-Stack &nbsp;·&nbsp; Applied Security
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kuleen-mani-tripathi-368b37293/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuleen-mani-tripathi-368b37293/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayakuleen@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
